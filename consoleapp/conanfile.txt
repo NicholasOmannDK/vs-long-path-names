@@ -1,0 +1,5 @@
+[requires]
+long-name-package/0.1
+
+[generators]
+cmake
